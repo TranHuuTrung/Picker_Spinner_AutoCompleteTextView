@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="language">
+        <item>Tieng Anh</item>
+        <item>Tieng Phap</item>
+        <item>Tieng Balan</item>
+        <item>Tieng Nga</item>
+        <item></item>
+    </string-array>
+</resources>
